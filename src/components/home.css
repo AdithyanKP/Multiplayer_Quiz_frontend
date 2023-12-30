@@ -1,0 +1,20 @@
+.container{
+    display: flex;
+    flex-direction: row;
+}
+.item_container{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 4px;
+
+}
+.button{
+    margin: 8px;
+}
+.title_container{
+    display: flex;
+}
+.button_container{
+    display: flex;
+}
